@@ -1,0 +1,6 @@
+framework module Pods_XM__ {
+  umbrella header "Pods-XM直播-umbrella.h"
+
+  export *
+  module * { export * }
+}

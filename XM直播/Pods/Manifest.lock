@@ -1,0 +1,41 @@
+PODS:
+  - Alamofire (4.5.1)
+  - FLAnimatedImage (1.0.12)
+  - GPUImage (0.1.7)
+  - Kingfisher (3.12.2)
+  - MJExtension (3.0.13)
+  - MJRefresh (3.1.12)
+  - ProtocolBuffers-Swift (3.0.23)
+  - ReachabilitySwift (3)
+  - SDWebImage (4.1.0):
+    - SDWebImage/Core (= 4.1.0)
+  - SDWebImage/Core (4.1.0)
+  - SnapKit (3.2.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - FLAnimatedImage (~> 1.0.12)
+  - GPUImage (~> 0.1.7)
+  - Kingfisher
+  - MJExtension
+  - MJRefresh (~> 3.1.12)
+  - ProtocolBuffers-Swift (~> 3.0.6)
+  - ReachabilitySwift (~> 3)
+  - SDWebImage (~> 4.1.0)
+  - SnapKit
+
+SPEC CHECKSUMS:
+  Alamofire: 2d95912bf4c34f164fdfc335872e8c312acaea4a
+  FLAnimatedImage: 4a0b56255d9b05f18b6dd7ee06871be5d3b89e31
+  GPUImage: 733a5f0fab92df9de1c37ba9df520a833ccb406d
+  Kingfisher: 320626678acadfcf47008b3c6841cd882050737b
+  MJExtension: 5932755f451458eefa24239358817f8d291240c7
+  MJRefresh: b96cdb21c4aa75a7b07654311ab2f315c497e806
+  ProtocolBuffers-Swift: e0b959c0fbb5dcadb3846f9b42c2cbfae6918422
+  ReachabilitySwift: f5b9bb30a0777fac8f09ce8b067e32faeb29bb64
+  SDWebImage: 0e435c14e402a6730315a0fb79f95e68654d55a4
+  SnapKit: 1ca44df72cfa543218d177cb8aab029d10d86ea7
+
+PODFILE CHECKSUM: 332d2c1e443e8836e1faca9aeed14628d4e03583
+
+COCOAPODS: 1.2.1
